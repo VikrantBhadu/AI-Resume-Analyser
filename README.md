@@ -1,2 +1,33 @@
-# AI-Resume-Analyser
-AI Resume Analyzer is an intelligent web application that helps users improve their resumes with the support of Artificial Intelligence. It scans uploaded resumes, detects important skills, checks formatting quality, and provides an estimated ATS score. The system also gives useful suggestions to improve content, structure, and keyworword.
+# AI Resume Analyzer
+
+## Overview
+
+AI Resume Analyzer is a smart tool that uses Artificial Intelligence to evaluate resumes and help users improve their chances of getting hired.
+
+## Features
+
+- Resume Upload
+- ATS Score Analysis
+- Skill Detection
+- Resume Improvement Suggestions
+- Job Role Recommendations
+
+## Tech Stack
+
+- Python
+- Streamlit
+- NLP
+- PDF Parsing
+- OpenAI API
+
+## Future Scope
+
+- LinkedIn Integration
+- Mock Interview AI
+- Multi-language Support
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
